@@ -1,7 +1,5 @@
 # Tailwind Manage Landing Page
-
-This is the project from my 2022 Tailwind Crash Course on YouTube.
-
+A fully page that made using tailwindcss
 
 
 # Usage
