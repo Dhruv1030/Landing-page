@@ -1,11 +1,11 @@
 # Tailwind Manage Landing Page
 <<<<<<< HEAD
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
 
 ![Alt text](/img/screen.png?raw=true)
 =======
 A fully page that made using tailwindcss
+Overview of the page
 
 >>>>>>> 401fa5dda0e9f1a613b926df329096e444657fb7
 
